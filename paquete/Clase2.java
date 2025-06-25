@@ -5,5 +5,7 @@ public class Clase2 extends Clase1{
         this.x = 8; //public
         this.setY(42); // private
         this.z = 22; // protected
+        this.w = 49; // default
+        this.restW(); // default
     }
 }
